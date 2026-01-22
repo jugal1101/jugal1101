@@ -82,7 +82,7 @@ I am a **Full Stack Web Developer (MERN)** focused on building
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jugal1101/jugal1101/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jugal1101/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
