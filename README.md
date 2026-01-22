@@ -84,12 +84,12 @@ I am a **Full Stack Web Developer (MERN)** focused on building
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jugalrana&show_icons=true&theme=midnight-purple&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jugalrana&theme=midnight-purple&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jugal1101&show_icons=true&theme=midnight-purple&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jugal1101&theme=midnight-purple&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugalrana&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugal1101&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ I am a **Full Stack Web Developer (MERN)** focused on building
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jugalrana&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jugal1101&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -114,10 +114,10 @@ I am a **Full Stack Web Developer (MERN)** focused on building
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/jugal-rana-748323292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=C77DFF" />
   </a>
-  <a href="https://github.com/jugalrana" target="_blank">
+  <a href="https://github.com/jugal1101/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1c1c1c?style=for-the-badge&logo=github&logoColor=C77DFF" />
   </a>
 </p>
