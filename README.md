@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=E9A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;JavaScript+%7C+Node.js+%7C+React.js;Building+Scalable+and+Maintainable+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=black&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;JavaScript+%7C+Node.js+%7C+React.js;Building+Scalable+and+Maintainable+Applications" />
 </p>
 
 <p align="center">
