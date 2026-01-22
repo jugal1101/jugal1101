@@ -82,11 +82,16 @@ I’m a **Full Stack Web Developer (MERN)** who enjoys building
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jugal1101/jugal1101/output/github-snake-dark.svg" alt="GitHub contribution snake" />
+  <img
+    src="https://raw.githubusercontent.com/jugal1101/jugal1101/output/github-snake-clean.svg"
+    alt="GitHub contribution activity"
+  />
 </p>
+
 
 ---
 
