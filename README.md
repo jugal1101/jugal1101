@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Jugal%20Rana&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Web%20Developer%20(MERN)&descAlignY=70&color=0:0b0b0f,50:2a0f3c,100:3b145f" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Jugal%20Rana&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Web%20Developer%20(MERN)&descAlignY=70&fontColor=EDE9FF&descColor=CDB4FF&color=0:0b0b0f,50:2a0f3c,100:3b145f" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=E9A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;JavaScript+%7C+Node.js+%7C+React.js;Building+Scalable+and+Maintainable+Systems" />
