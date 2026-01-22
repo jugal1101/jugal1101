@@ -7,12 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jugalrana&label=PROFILE+VIEWS&style=for-the-badge&color=6A0DAD" />
-</p>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/YOUR_RESUME_ID/view" target="_blank">
-    <img src="https://drive.google.com/file/d/1AlPAt5eOhTHROu-XmA8wAPT45bEAXs3g/view?usp=sharing" />
+  <a href="https://drive.google.com/file/d/1AlPAt5eOhTHROu-XmA8wAPT45bEAXs3g/view?usp=sharing/view" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-1c1c1c?style=for-the-badge&logo=adobeacrobatreader&logoColor=C77DFF" />
   </a>
 </p>
 
