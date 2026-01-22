@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Jugal%20Rana&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20(MERN)&descAlignY=62&color=0:0f0c29,50:302b63,100:24243e" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Jugal%20Rana&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Web%20Developer%20(MERN)&descAlignY=70&color=0:0b0b0f,50:2a0f3c,100:3b145f" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=C77DFF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;JavaScript+%7C+Node.js+%7C+React.js;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=E9A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;JavaScript+%7C+Node.js+%7C+React.js;Building+Scalable+and+Maintainable+Systems" />
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1AlPAt5eOhTHROu-XmA8wAPT45bEAXs3g/view?usp=sharing/view" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-1c1c1c?style=for-the-badge&logo=adobeacrobatreader&logoColor=C77DFF" />
+  <a href="https://drive.google.com/file/d/1AlPAt5eOhTHROu-XmA8wAPT45bEAXs3g/view" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-rgba(255,255,255,0.08)?style=for-the-badge&logo=adobeacrobatreader&logoColor=E9A6FF" />
   </a>
 </p>
 
@@ -16,36 +16,20 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Web Developer (MERN)** focused on building  
-**clean, scalable, and production-ready web applications**.
+I’m a **Full Stack Web Developer (MERN)** who focuses on  
+**clean architecture, scalability, and real-world problem solving**.
 
-- Strong foundation in **JavaScript & Backend Development**
-- Experienced with **REST APIs & Authentication**
-- Actively improving **DSA & System Design**
-- Career goal: **Top product-based / FAANG-level companies**
+🧠 Strong foundation in **JavaScript & Backend Engineering**  
+🔐 Experienced with **REST APIs, Authentication & Security**  
+📈 Improving **DSA & System Design** consistently  
+🎯 Goal: Work on **large-scale systems at top product companies**
 
 ---
 
 ## 🧠 Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,postman,linux&theme=dark" />
 </p>
 
 ---
@@ -54,60 +38,60 @@ I am a **Full Stack Web Developer (MERN)** focused on building
 
 **Full Stack Developer — Self Projects**
 
-- Built MERN stack applications from scratch
-- Designed RESTful APIs using Node.js & Express
-- Implemented JWT authentication & authorization
-- Followed MVC architecture and clean coding practices
-- Used Git & GitHub for version control
+• Developed MERN stack applications end-to-end  
+• Designed RESTful APIs using Node.js & Express  
+• Implemented JWT-based authentication & authorization  
+• Followed MVC architecture & clean code principles  
+• Used Git & GitHub for version control and collaboration  
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
 ### 🔹 MERN Authentication System
-- Secure login & signup using JWT
-- Password hashing with bcrypt
-- Role-based access control
+• Secure login & signup using JWT  
+• Password hashing with bcrypt  
+• Role-based access control  
 
 ### 🔹 REST API Backend
-- CRUD operations
-- Middleware & centralized error handling
-- Optimized database queries
+• CRUD operations  
+• Centralized error handling  
+• Optimized MongoDB queries  
 
-### 🔹 Personal Portfolio
-- Modern dark UI
-- Fully responsive design
-- Fast and SEO-friendly
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jugal1101&show_icons=true&theme=midnight-purple&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jugal1101&theme=midnight-purple&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugal1101&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
+### 🔹 Portfolio Website
+• Dark modern UI  
+• Fully responsive  
+• Performance & SEO focused  
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jugal1101&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jugal1101&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jugal1101&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugal1101&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jugal1101&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced JavaScript
-- Data Structures & Algorithms
-- Backend scalability & security
-- System Design fundamentals
+• Advanced JavaScript & Async Patterns  
+• Data Structures & Algorithms  
+• Backend scalability & security  
+• System Design fundamentals  
 
 ---
 
@@ -115,21 +99,22 @@ I am a **Full Stack Web Developer (MERN)** focused on building
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jugal-rana-748323292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=C77DFF" />
+    <img src="https://img.shields.io/badge/LinkedIn-rgba(255,255,255,0.08)?style=for-the-badge&logo=linkedin&logoColor=E9A6FF" />
   </a>
-  <a href="https://github.com/jugal1101/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1c1c1c?style=for-the-badge&logo=github&logoColor=C77DFF" />
+  <a href="https://github.com/jugal1101" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rgba(255,255,255,0.08)?style=for-the-badge&logo=github&logoColor=E9A6FF" />
   </a>
 </p>
 
 ---
 
-## 🧠 Developer Mindset
+## 🧠 Engineering Mindset
 
-> *“Clean code always looks like it was written by someone who cares.”* — Robert C. Martin
+> *“Clean code always looks like it was written by someone who cares.”*  
+> — Robert C. Martin
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&section=footer&color=0:0b0b0f,50:2a0f3c,100:3b145f"/>
 </p>
